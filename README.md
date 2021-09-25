@@ -14,8 +14,8 @@ We get the input by reading input.txt directly (you’ll have to create it in yo
 # main.cpp
 This cpp file is the where we read the input and give the correct output 
 
-#input.txt
+# input.txt
 Input file for input of test cases
 
-#output.txt
+# output.txt
 Output file where output of corresponding input is written in it.
